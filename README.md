@@ -9,7 +9,7 @@
 In any Claude Code session:
 
 ```text
-/plugin marketplace add TamalAdebisi/phasefolio-claude-plugin
+/plugin marketplace add PhaseFolio/claude-plugin
 /plugin install phasefolio@phasefolio
 ```
 
@@ -83,7 +83,7 @@ Every PhaseFolio export embeds the exact `engine_version`, `methodology_version`
 
 | Component | Where |
 | :--- | :--- |
-| This Claude Code plugin | [TamalAdebisi/phasefolio-claude-plugin](https://github.com/TamalAdebisi/phasefolio-claude-plugin) |
+| This Claude Code plugin | [PhaseFolio/claude-plugin](https://github.com/PhaseFolio/claude-plugin) |
 | MCP endpoint | `https://app.phasefolio.com/api/mcp` |
 | MCP server (npm fallback) | [`@phasefolio/mcp`](https://www.npmjs.com/package/@phasefolio/mcp) |
 | MCP server (Official Registry) | `com.phasefolio/phasefolio` |

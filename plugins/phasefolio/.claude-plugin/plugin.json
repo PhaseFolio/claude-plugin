@@ -8,7 +8,7 @@
     "url": "https://phasefolio.com"
   },
   "homepage": "https://phasefolio.com",
-  "repository": "https://github.com/TamalAdebisi/phasefolio-claude-plugin",
+  "repository": "https://github.com/PhaseFolio/claude-plugin",
   "license": "MIT",
   "keywords": ["biotech", "rnpv", "diligence", "valuation", "mcp", "clinical-trials"]
 }
